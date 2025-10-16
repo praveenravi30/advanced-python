@@ -1,0 +1,3 @@
+dictionary are used to store values in key values in variable  
+dictionary is collection of order,changable,and do not allow to 
+as a python 3.7 dictionary are order but in 3.6 or earlier dictionarys are unorder 

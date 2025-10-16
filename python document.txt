@@ -1,0 +1,19 @@
+python is popular language
+commands can be more readable 
+commands can be used to prevent  the execution when testing
+
+variable:
+  variables are used to get the value or to assign the avale
+
+
+
+creating variables:
+python has no command for declaring a variable 
+a variable is created a moment first assign a value
+
+code:
+
+x=4
+y=nandha
+print(x)
+print(y)

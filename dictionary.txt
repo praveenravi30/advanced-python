@@ -1,3 +1,22 @@
-dictionary are used to store values in key values in variable  
-dictionary is collection of order,changable,and do not allow to 
-as a python 3.7 dictionary are order but in 3.6 or earlier dictionarys are unorder 
+
+
+
+                                                                                   dictionary
+
+ dictionaries are used to store values in key values in variable  
+ dictionary is collection of order, changeable ,and do not allow to 
+ as  python 3.7 dictionary are order but in 3.6 or earlier dictionaries are unorder 
+ dictionaries are written with curly brackets and has keys and values
+
+ Dictionaries are used to store data values in key value pairs
+ a dictionary is a collection of key value pairs
+ Values can be anything like numbers, strings, lists, even other dictionaries
+ Dictionaries are changeable, meaning that we can change, add or remove items after the dictionary has been created
+ To determine how many items a dictionary has, use the len() function
+ 
+
+
+
+
+
+

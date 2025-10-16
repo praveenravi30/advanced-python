@@ -1,0 +1,38 @@
+creating dictionary:
+student = {"name": "praveen",
+           "profession": "engineer",
+           "dob":"30/06/2007"}
+print(student)
+""
+slicing the key from dictionary:
+
+student = {"name": "praveen",
+           "profession": "engineer",
+           "dob":"30/06/2007"}
+print(student)
+print("name")
+
+""
+removing the key from dictionary:
+student = {"name": "praveen",
+           "profession": "engineer",
+           "dob":"30/06/2007"}
+student["city"]="chennai"
+print(student)
+student.pop("profession")
+print(student)
+""
+max and mim for dictionary:
+student_marks={
+    "tamil":79,
+    "english":80,
+    "maths":100,
+    "physics":83,
+    "computer":91,
+    "chemistry":98
+}
+max_student = max(student_marks)
+min_student = min(student_marks)
+print(student_marks,"student_marks")
+print(max_student," is highest mark")
+print(min_student," is lowest mark")

@@ -1,0 +1,6 @@
+tuple1=("apple")
+print(tuple1)
+tuple2=(1,2)
+print(tuple2)
+tuple3=(True,False,True)
+print(tuple3)
